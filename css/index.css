@@ -212,3 +212,16 @@ footer nav a {
     border-bottom: 1px dashed black;
     margin-bottom: 20px;
 }
+
+.about-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.about-box {
+    width: 44%;
+    padding-bottom: 2%;
+    border-bottom: 1px dashed black;
+    margin: 0 2% 7%;
+}
