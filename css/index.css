@@ -204,3 +204,11 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* About page specific styles */
+
+.about {
+    padding: 2% 2%;
+    border-bottom: 1px dashed black;
+    margin-bottom: 20px;
+}
