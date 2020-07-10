@@ -65,7 +65,7 @@ html, body {
 }
 
 header {
-    margin: 1% 0;
+    margin: 1% 0 3%;
 }
 
 .header-nav {
@@ -212,8 +212,7 @@ footer nav a {
 /* About page specific styles */
 
 .about {
-    padding: 2% 2%;
-    border-bottom: 1px dashed black;
+    padding: 0 4% 2%;
     margin-bottom: 20px;
 }
 
@@ -226,7 +225,6 @@ footer nav a {
 .about-box {
     width: 44%;
     padding-bottom: 2%;
-    border-bottom: 1px dashed black;
     margin: 0 2% 7%;
 }
 
@@ -242,3 +240,8 @@ footer nav a {
     border-radius: 10px;
     font-size: 95%;
 }
+
+.bottom-border {
+    border-bottom: 1px dashed black;
+}
+
