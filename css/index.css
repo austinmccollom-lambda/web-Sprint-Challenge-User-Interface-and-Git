@@ -46,6 +46,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+button {
+    border: none;
+    background-color: transparent;
+}
 
 /* End reset start of styles */
 
@@ -224,4 +228,17 @@ footer nav a {
     padding-bottom: 2%;
     border-bottom: 1px dashed black;
     margin: 0 2% 7%;
+}
+
+.about-box h2 {
+    margin-top: 3%;
+}
+
+.about-box button {
+    margin-top: 4%;
+    padding: 2% 5%;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 95%;
 }
